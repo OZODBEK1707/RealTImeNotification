@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "834804731914",
+    "firebase_url": "https://firestore10-default-rtdb.firebaseio.com",
+    "project_id": "firestore10",
+    "storage_bucket": "firestore10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834804731914:android:9e4fdbdb0fdd3fa1e94ff3",
+        "android_client_info": {
+          "package_name": "com.rosh.firestore10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834804731914-66q8sulppoec6uaa699osneu32lpdq7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3IibjdDZzD9ZC-SGlEY8Df6k80mAF1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834804731914-66q8sulppoec6uaa699osneu32lpdq7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834804731914:android:74e06e8ff948de90e94ff3",
+        "android_client_info": {
+          "package_name": "com.rosh.realtimenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834804731914-66q8sulppoec6uaa699osneu32lpdq7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3IibjdDZzD9ZC-SGlEY8Df6k80mAF1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834804731914-66q8sulppoec6uaa699osneu32lpdq7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
